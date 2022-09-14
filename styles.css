@@ -2,3 +2,7 @@ p {
     margin: 1em;
     color: red;
 }
+button{
+  outline: none;
+    color: black;
+}
